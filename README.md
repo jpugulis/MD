@@ -1,2 +1,2 @@
-# MD
-DevOps pamati iesācējiem 1.mājasdarbs
+# DevOps repozitorijs
+Jāņa Pūguļa DevOps repozitorijs pamati iesācējiem
